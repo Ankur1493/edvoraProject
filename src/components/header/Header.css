@@ -1,0 +1,24 @@
+.Header{
+    height: 84px;
+    background-color: #101010;
+    display: flex;
+    justify-content: space-between;
+}
+.Header .title{
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 43px;
+    margin-top: 20px;
+}
+.Header .profile{
+    display: flex;
+    align-items: center;
+}
+.Header .profile .name{
+    font-size: 20px;
+    margin-right: 25px;
+}
+.Header .profile .img {
+    margin-right: 30px;
+    margin-top: 10px;
+}
